@@ -20,7 +20,6 @@ int main(){
         cout << "3. Exit" << endl;
         cout << "Pilih (1/2/3) : ";
         
-
         cin >> pilihan;
 
         switch (pilihan)
